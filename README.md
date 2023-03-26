@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Eivind</h1>
 <h3 align="center">Creative maker</h3>
 
-- 🔭 Infrastructure Engineer
+- 🔭 I’m currently working as **Infrastructure Engineer**
+
+- 📝 Masters in Robotics and Artificial Intelligence [https://github.com/dnivie/thesis](https://github.com/dnivie/thesis)
 
 - 💬 Ask me about **Generational Algorithms and Control Systems**
 

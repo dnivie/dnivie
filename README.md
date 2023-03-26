@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eivind</h1>
 <h3 align="center">Creative maker</h3>
 
-- 🌱 I’m currently learning **Game Development**
+- 🔭 Infrastructure Engineer
 
 - 💬 Ask me about **Generational Algorithms and Control Systems**
 

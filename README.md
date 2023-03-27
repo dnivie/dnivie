@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Infrastructure Engineer**
 
-- 📝 Masters in Robotics and Artificial Intelligence [https://github.com/dnivie/thesis](https://github.com/dnivie/thesis)
+- 📝 **[Masters in Robotics and Artificial Intelligence](https://github.com/dnivie/thesis)**
 
 - 💬 Ask me about **Generational Algorithms and Control Systems**
 

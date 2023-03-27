@@ -5,8 +5,6 @@
 
 - 📝 **[Masters in Robotics and Artificial Intelligence](https://github.com/dnivie/thesis)**
 
-- 💬 Ask me about **Generational Algorithms and Control Systems**
-
 - 📫 How to reach me **eivindbd@proton.me**
 
 <h3 align="left">Connect with me:</h3>

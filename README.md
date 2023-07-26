@@ -5,7 +5,6 @@
 
 - 📝 **[Masters in Robotics and Artificial Intelligence](https://github.com/dnivie/thesis)**
 
-- 📫 How to reach me **eivindbd@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

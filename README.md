@@ -1,10 +1,3 @@
-<h1 align="center">Hi, I'm Eivind</h1>
-<h3 align="center">Creative maker</h3>
-
-- 🔭 I’m currently working as **Infrastructure Engineer**
-
-- 📝 **[Masters in Robotics and Artificial Intelligence](https://github.com/dnivie/thesis)**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
